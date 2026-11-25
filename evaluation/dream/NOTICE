@@ -1,0 +1,3 @@
+# Dream model / sampling code taken unchanged from Gen-Verse/dLLM-RL (sample/dream/),
+# which contains code from NVlabs/Fast-dLLM (Copyright 2025 NVIDIA CORPORATION & AFFILIATES)
+# modified from DreamLM/Dream. Licensed under the Apache License, Version 2.0 (see LICENSE).

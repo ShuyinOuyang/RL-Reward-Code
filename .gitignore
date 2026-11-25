@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+env.sh
+wandb/
+logs/
+**/experiment_result/
+evaluation/evalplus/results_*/
+evaluation/evalplus/evalplus_results/
+evaluation/livecodebench/output/
+evaluation/livecodebench/eval_results/
+evaluation/livecodebench/lcb_results/
+*.log
