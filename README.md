@@ -1,6 +1,6 @@
 # A Study of Reinforcement Learning Reward for Code Generation
 
-Official code for **"[Paper Title]"** ([Venue Year]).
+Official code for **A Study of Reinforcement Learning Reward for Code Generation** (EACL 2027).
 
 We study how code-specific reward signals (format, syntax, static analysis, similarity to a reference solution, and execution-based correctness) affect reinforcement learning (GRPO) for code generation in two paradigms:
 
@@ -203,14 +203,3 @@ This repository builds on:
 * [AceCode-87K](https://huggingface.co/datasets/TIGER-Lab/AceCode-87K) (MIT)
 
 Each component keeps the license of the project it is derived from. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for which license covers which files, and for the data and model licenses.
-
-## Citation
-
-```bibtex
-@inproceedings{TODO,
-  title     = {[Paper Title]},
-  author    = {[Authors]},
-  booktitle = {[Venue]},
-  year      = {[Year]}
-}
-```
